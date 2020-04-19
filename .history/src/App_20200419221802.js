@@ -20,7 +20,7 @@ function App() {
               <Link to="/sign-in">Sign In</Link>
             </li>
             <li>
-              <Link to="/sign-up">Sign In</Link>
+              <Link to="/users">Users</Link>
             </li>
           </ul>
       <Switch>
